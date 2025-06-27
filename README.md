@@ -1,5 +1,5 @@
 # nodejs-compress-numbers
-The source code contains a compression / decompression sample of array of numbers with values [1...300] into string.    
+The source code contains a compression / decompression sample of array of numbers with values [1...300] into a string.    
 
 Implemented in Node.js.    
     
